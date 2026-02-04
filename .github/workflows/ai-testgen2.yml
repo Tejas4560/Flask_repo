@@ -1,4 +1,4 @@
-# .github/workflows/ai-testgen.yml (in your consumer repo)
+
 name: AI Test Generation
 
 on:
